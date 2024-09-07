@@ -1,0 +1,75 @@
+@media all and (min-width:1150px) {
+	.trsprnt:hover {
+		background-color: lightseagreen;
+		border-color: transparent;
+		color:white;
+	}
+	.green:hover {
+		border:2px solid;
+		background-color: transparent;
+		color:black;
+	}
+	.nav-link:hover {
+		background-color: black;
+		color: white;
+	}
+	.readmore {	
+		text-align: center;
+	}
+	.first {
+		text-align: center;
+		padding: 100px 0;
+		font-size: 20px;
+	}
+	.icon {
+		width: 200px;
+		margin: auto;
+		display:black;
+		height: 200px;
+	}
+	.h2 {
+		font-size: 4rem;
+		margin-bottom: 2rem;
+		letter-spacing: 0.7px;
+	}
+	.section-subtitle {
+		font-size: 1.5rem;
+		font-weight: 400;
+		line-height: 1.5;
+		max-width: 700px;
+		margin: auto;
+		letter-spacing: 0.7px;
+	}
+	.first-box {
+		display: flex;
+		justify-content: center;
+		max-width: 1200px;
+		margin: auto;
+		justify-conent: space-between;
+		margin-top: 100px;
+	}
+	.first-item {
+		width: 30%;
+
+	}
+	.h3 {
+		font-size: 2rem;
+		letter-spacing: 0.7px;
+		margin: 2.5rem 0;
+	}
+	.second {
+		background-color: #e4fdf9;
+	}
+	.second-item {
+		width: calc(100% / 3 - 20px);
+		background-color: #fff;
+		margin: 10px;
+		padding: 60px;
+	}
+	.second-box {
+		flex-wrap: wrap;
+		max-width: 1000px;
+		justify-content: space-between;
+	}
+}
+	
